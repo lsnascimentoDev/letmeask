@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="public/logo.png"/>
+<img src="public/logo.svg"/>
 
 <h1 align="center">
 <img src="public/home.png"/>
@@ -16,7 +16,7 @@
 
 ## ✍ Sobre
 
-clear perfeito para ser utilizado por criadores de conteúdo em lives.
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de perguntas e respostas ao vivo com o seu público.
 
 Este é um projeto desenvolvido durante a Next Level Week Together.
 
