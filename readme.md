@@ -16,7 +16,7 @@
 
 ## ✍ Sobre
 
-Letmeask é uma plataforma de perguntas e respostas em tempo real, perfeito para ser utilizado por criadores de conteúdo em lives.
+clear perfeito para ser utilizado por criadores de conteúdo em lives.
 
 Este é um projeto desenvolvido durante a Next Level Week Together.
 
